@@ -1,8 +1,6 @@
-It looks like you've shared assembly code, likely for an assignment in your *Computer Systems Architecture* lab. Here's a general structure for a README file that you can use to describe this project.
 
----
 
-# README for Assembly Program - Computer Systems Architecture Lab
+# Breadcrumbsx86_GameOfLife-Encryption
 
 ## Introduction
 This assembly program is written in x86 architecture using AT&T syntax. It demonstrates the implementation of operations related to matrix manipulations and binary string handling, leveraging system calls and file I/O operations. The program is designed for a Computer Systems Architecture lab to demonstrate knowledge of assembly language, matrix operations, and memory management.
@@ -77,6 +75,3 @@ Example `in.txt`:
 ## Output
 The output will be stored in `out.txt`, containing the final state of the matrix after performing the required operations.
 
----
-
-This README provides the necessary context for understanding the structure, function, and execution of the program, allowing others to run and test the code effectively.
