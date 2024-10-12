@@ -1,6 +1,6 @@
 
 
-# Breadcrumbsx86_GameOfLife-Encryption
+# x86_GameOfLife-Encryption
 
 ## Introduction
 This assembly program is written in x86 architecture using AT&T syntax. It demonstrates the implementation of operations related to matrix manipulations and binary string handling, leveraging system calls and file I/O operations. The program is designed for a Computer Systems Architecture lab to demonstrate knowledge of assembly language, matrix operations, and memory management.
